@@ -1,2 +1,2 @@
 # tongueDrumPlayer
-This is a embedded systems project using a raspberry pi for UMO course ECE471
+This is an embedded systems project using a raspberry pi for UMO course ECE471
